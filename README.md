@@ -1,4 +1,4 @@
-#**Proyecto Allura Store**
+# **Proyecto Allura Store**
 
 El propósito de este proyecto, es evaluar la posibilidad de venta de una de las cuatro tiendas de una cadena de supermercados.
 
